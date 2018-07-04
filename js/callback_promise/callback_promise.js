@@ -35,6 +35,6 @@ new Promise((resolve, reject) => {
     .catch((err) => {
         console.log(err)
         console.log("again error")
-    })
+    });
 
 
